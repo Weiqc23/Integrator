@@ -1,0 +1,71 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: JFNK",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/source/main.py",
+            "console": "integratedTerminal",
+            "python": "C:/Users/wei13/anaconda3/envs/show_vtk/python.exe",
+            "args": [
+                // "C:/Users/wei13/Desktop/MixedOcTree/MixedOcTree-data/cortex.vtk"
+            ]
+        },
+        {
+            "name": "Python: test",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/source/main_test.py",
+            "console": "integratedTerminal",
+            "python": "C:/Users/wei13/anaconda3/envs/show_vtk/python.exe",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}/source;${env:PYTHONPATH}",
+                "PATH": "C:/Users/wei13/anaconda3/envs/show_vtk;C:/Users/wei13/anaconda3/envs/show_vtk/Library/bin;${env:PATH}"
+            },
+            "args": [
+                // "C:/Users/wei13/Desktop/MixedOcTree/MixedOcTree-data/cortex.vtk"
+            ]
+        },
+        {
+            "name": "c++: test",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/source/build/test.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "setupCommands": [
+                {
+                    "description": "为 gdb 启用整齐打印",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "cppCmakeCompile"
+        },
+        {
+            "name": "JFNK_launch",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/source/JFNK.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "setupCommands": [
+                {
+                    "description": "为 gdb 启用整齐打印",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "cppCmakeCompile"
+        },
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+         {
+            "label": "cppCmakeCompile",
+            "type": "shell",
+            "options": {
+                "cwd": "${workspaceFolder}/source"
+            },
+            
+            "command": "rm -rf build; mkdir build; cd build; cmake -G 'MinGW Makefiles'..; mingw32-make",
+            
+            "args": [],
+            "group": "build"
+        },
+    ]
+}

@@ -1,0 +1,3 @@
+C:/Users/wei13/Desktop/JFNK-integrator-master/source/build/CMakeFiles/test.dir
+C:/Users/wei13/Desktop/JFNK-integrator-master/source/build/CMakeFiles/edit_cache.dir
+C:/Users/wei13/Desktop/JFNK-integrator-master/source/build/CMakeFiles/rebuild_cache.dir

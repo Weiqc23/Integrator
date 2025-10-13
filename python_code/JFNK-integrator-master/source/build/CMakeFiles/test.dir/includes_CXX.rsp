@@ -1,0 +1,1 @@
+-IC:/Users/wei13/AppData/Local/Programs/Python/Python313/Include -I"C:/Users/wei13/AppData/Local/Programs/Python/Python313/Lib/site-packages/numpy/_core/include" -IC:/Users/wei13/anaconda3/Library/include -isystem "D:/or-tools_x64_VisualStudio2022_cpp_v9.12.4544/include/eigen3"
