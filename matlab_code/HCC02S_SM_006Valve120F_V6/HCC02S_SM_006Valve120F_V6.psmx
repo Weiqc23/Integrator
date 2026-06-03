@@ -1,0 +1,268 @@
+<Meta name="HCC02S_SM_006Valve120F_V6">
+  <messagelist>
+    <message status="normal" label="build" scope="HCC02S_SM_006Valve120F_V6" groupid="100006"><![CDATA[Generating 'D:\weiqc\work\Integrator\matlab_code\HCC02S_SM_006Valve120F_V6\HCC02S_SM_006Valve120F_V6.gf42\HCC02S_SM_006Valve120F_V6.map'.]]></message>
+    <message status="normal" label="build" scope="HCC02S_SM_006Valve120F_V6" groupid="100014"><![CDATA[The total number of live nodes: 384]]></message>
+    <message status="normal" label="build" scope="HCC02S_SM_006Valve120F_V6" groupid="400000"><![CDATA[Time for Compile: 0ms  Make: 31ms]]></message>
+    <message status="normal" label="build" scope="HCC02S_SM_006Valve120F_V6" groupid="100015"><![CDATA[Will execute (1): call C:\Program Files (x86)\GFortran\4.2.1\bin\gf42vars.bat]]></message>
+    <message status="normal" label="build" scope="HCC02S_SM_006Valve120F_V6" groupid="100015"><![CDATA[Will execute (1): call "C:\Program Files (x86)\GFortran\4.2.1\bin\gf42vars.bat"]]></message>
+    <message status="normal" label="build" scope="HCC02S_SM_006Valve120F_V6" groupid="100015"><![CDATA[Will execute (2): make -f HCC02S_SM_006Valve120F_V6.mak]]></message>
+    <message status="normal" label="build" scope="HCC02S_SM_006Valve120F_V6" groupid="100015"><![CDATA[Will execute (2): "D:\weiqc\work\Integrator\matlab_code\HCC02S_SM_006Valve120F_V6\HCC02S_SM_006Valve120F_V6.gf42\HCC02S_SM_006Valve120F_V6.mak.bat"]]></message>
+    <message status="normal" label="build" scope="HCC02S_SM_006Valve120F_V6" groupid="100005"><![CDATA[Creating EMTDC executable...]]></message>
+    <message status="normal" label="build" scope="HCC02S_SM_006Valve120F_V6" groupid="0"><![CDATA[D:\weiqc\work\Integrator\matlab_code\HCC02S_SM_006Valve120F_V6\HCC02S_SM_006Valve120F_V6.gf42>call "C:\Program Files (x86)\GFortran\4.2.1\bin\gf42vars.bat" ]]></message>
+    <message status="normal" label="build" scope="HCC02S_SM_006Valve120F_V6" groupid="100012"><![CDATA[Linking objects and libraries into binary 'HCC02S_SM_006Valve120F_V6.exe']]></message>
+    <message status="normal" label="build" scope="HCC02S_SM_006Valve120F_V6" groupid="400000"><![CDATA[Solve Time = 16ms]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1952974997" /><![CDATA[Slope of segment 4 is more than that of segment 3]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1952974997" /><![CDATA[Slope of segment 6 is more than that of segment 5]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1952974997" /><![CDATA[Slope of segment 9 is more than that of segment 8]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1952974997" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="2134295153" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="2134295153" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="392167637" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="392167637" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1752133884" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1752133884" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="165663968" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="165663968" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="897530404" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="897530404" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1138094733" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1138094733" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1049581900" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1049581900" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="34091619" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="34091619" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="358217706" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="358217706" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="673729758" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="673729758" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1759488517" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1759488517" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1865213494" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1865213494" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="2134295153" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="2134295153" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="392167637" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="392167637" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1752133884" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1752133884" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="165663968" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="165663968" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="897530404" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="897530404" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1138094733" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1138094733" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1049581900" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1049581900" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="34091619" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="34091619" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="358217706" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="358217706" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="673729758" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="673729758" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1759488517" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1759488517" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1865213494" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1865213494" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="2134295153" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="2134295153" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="392167637" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="392167637" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1752133884" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1752133884" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="165663968" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="165663968" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="897530404" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="897530404" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1138094733" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1138094733" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1049581900" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1049581900" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="34091619" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="34091619" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="358217706" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="358217706" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="673729758" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="673729758" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1759488517" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1759488517" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1865213494" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1865213494" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="376654772" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="376654772" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1877709825" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1877709825" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1034591416" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1034591416" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1902329860" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1902329860" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1090551387" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1090551387" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="16826424" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="16826424" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="159266144" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="159266144" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1703783335" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1703783335" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1821385585" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1821385585" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1840868225" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1840868225" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="324448088" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="324448088" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="949059549" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="949059549" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="376654772" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="376654772" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1877709825" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1877709825" /><![CDATA[Successive curve segment slopes must decrease in magnitude]]></message>
+    <message status="warning" label="runtime" groupid="200009">
+      <User scope="HCC02S_SM_006Valve120F_V6" name="master:arrester" status="warning" link="1034591416" /><![CDATA[Slope of segment 10 is more than that of segment 9]]></message>
+  </messagelist>
+  <Catalog count="0" />
+  <ViewContext>
+    <Window defn="HCC02S_SM_006Valve120F_V6:Main" call="0" />
+  </ViewContext>
+  <List classid="View">
+    <View name="Main" zoomlevel="7" scrollx="0" scrolly="0" />
+    <View name="Valve_ETT" zoomlevel="7" scrollx="0" scrolly="0" />
+    <View name="Valve_LTT" zoomlevel="9" scrollx="251" scrolly="0" />
+  </List>
+  <Output device="EMTDC" version="2010" date="2025/11/06" time="19:19:22.000000">
+    <Domain name="Time" unit="s" mult="0.0" skew="0.0">
+      <Sample rate="10000.0" end="2000" />
+    </Domain>
+    <List classid="Analog">
+      <Analog name="Main(0):Uac_R" index="0" id="56572608:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Pac_R" index="3" id="940816938:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Uacv_R" index="4" id="181879482:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Qac_R" index="7" id="1664148214:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Udc_R" index="8" id="1653837653:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Idc_R" index="9" id="1521723929:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Uac_I" index="10" id="1194781082:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Pac_I" index="13" id="1293313646:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Uacv_I" index="14" id="1358904050:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Qac_I" index="17" id="1408613764:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Udc_I" index="18" id="990694028:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Idc_I" index="19" id="2095865107:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):UV_R" index="20" id="912071132:0" label="" dim="6" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):IV_R" index="26" id="1651098191:0" label="" dim="6" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):UV_I" index="32" id="2021354084:0" label="" dim="6" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):IV_I" index="38" id="902186446:0" label="" dim="6" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):FP_I" index="44" id="394384533:0" label="" dim="6" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):FP_R" index="50" id="88137559:0" label="" dim="6" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):EMOV_V" index="56" id="1822867750:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):FP_R_gct" index="57" id="735464876:0" label="" dim="6" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\Valve_LTT(0):EMOV_IGCT" index="63" id="1669411448:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\Valve_LTT(1):EMOV_IGCT" index="64" id="1669411448:1" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\Valve_LTT(2):EMOV_IGCT" index="65" id="1669411448:2" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\Valve_LTT(3):EMOV_IGCT" index="66" id="1669411448:3" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\Valve_LTT(4):EMOV_IGCT" index="67" id="1669411448:4" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\Valve_LTT(5):EMOV_IGCT" index="68" id="1669411448:5" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    </List>
+    <List classid="Digital" />
+  </Output>
+</Meta>

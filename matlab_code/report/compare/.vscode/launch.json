@@ -1,0 +1,29 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+       
+        {
+            "name": "Python",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/calculator.py",
+            "console": "integratedTerminal",
+            "python": "C:/Users/wei13/anaconda3/envs/show_vtk/python.exe",
+            "args": [],
+            "justMyCode": false,
+            
+        },
+                {
+            "name": "Python2",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/calculator copy.py",
+            "console": "integratedTerminal",
+            "python": "C:/Users/wei13/anaconda3/envs/show_vtk/python.exe",
+            "args": [],
+            "justMyCode": false,
+            
+        },
+       
+    ]
+}

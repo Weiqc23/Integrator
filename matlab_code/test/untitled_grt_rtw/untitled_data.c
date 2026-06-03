@@ -1,0 +1,39 @@
+/*
+ * untitled_data.c
+ *
+ * Academic License - for use in teaching, academic research, and meeting
+ * course requirements at degree granting institutions only.  Not for
+ * government, commercial, or other organizational use.
+ *
+ * Code generation for model "untitled".
+ *
+ * Model version              : 1.2
+ * Simulink Coder version : 24.2 (R2024b) 21-Jun-2024
+ * C source code generated on : Mon Dec  8 09:15:45 2025
+ *
+ * Target selection: grt.tlc
+ * Note: GRT includes extra infrastructure and instrumentation for prototyping
+ * Embedded hardware selection: Intel->x86-64 (Windows64)
+ * Code generation objectives: Unspecified
+ * Validation result: Not run
+ */
+
+#include "untitled.h"
+
+/* Block parameters (default storage) */
+P_untitled_T untitled_P = {
+  /* Expression: 1.5
+   * Referenced by: '<Root>/Gain'
+   */
+  1.5,
+
+  /* Expression: 2
+   * Referenced by: '<Root>/Gain1'
+   */
+  2.0,
+
+  /* Expression: 0
+   * Referenced by: '<Root>/Switch'
+   */
+  0.0
+};
